@@ -16,7 +16,7 @@ public class rmi_client {
             UserService hello = (UserService)Naming.lookup("rmi://localhost:12345/Hello");
 
             // 调用远程方法
-            System.out.println(hello.sayHello("北京"));
+            System.out.println(hello.sayHello("傻瓜：  "));
         } catch (Exception e) {
             System.out.println("HelloClient exception: " + e);
         }

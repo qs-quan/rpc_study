@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hessian_client" />
+        <module name="hessian_server" />
         <module name="rmi_client" />
         <module name="rmi_server" />
       </profile>

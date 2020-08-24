@@ -11,6 +11,8 @@
     <modules>
         <module>rmi_server</module>
         <module>rmi_client</module>
+        <module>hessian_server</module>
+        <module>hessian_client</module>
     </modules>
 
 
