@@ -13,6 +13,8 @@
         <module>rmi_client</module>
         <module>hessian_server</module>
         <module>hessian_client</module>
+        <module>myrpc_server</module>
+        <module>myrpc_client</module>
     </modules>
 
 
