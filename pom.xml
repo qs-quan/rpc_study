@@ -15,6 +15,9 @@
         <module>hessian_client</module>
         <module>myrpc_server</module>
         <module>myrpc_client</module>
+        <module>dubbo_demo_provider</module>
+        <module>dubbo_demo_customer</module>
+        <module>dubbo_demo_inferface</module>
     </modules>
 
 
